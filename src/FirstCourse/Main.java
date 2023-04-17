@@ -1,3 +1,5 @@
+package FirstCourse;
+
 public class Main {
     public static void main(String[] args) {
         //Урок 2. Задача 6
